@@ -38,6 +38,6 @@ jobs:
               with:
                 node-version: '24'
             - run: npm install
-            - run:
+            - run: |
                 cd packages/inversify-typeorm
                 npx tsc
