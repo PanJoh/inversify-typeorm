@@ -1,0 +1,8 @@
+node_modules/
+.vscode
+
+packages/inversify-typeorm/dist
+packages/inversify-typeorm/node_modules
+
+packages/test-app/dist
+packages/test-app/node_modules

@@ -1,0 +1,7 @@
+{
+    "name": "@panjoh/inversify-typeorm-project",
+    "workspaces": [
+        "packages/inversify-typeorm",
+        "packages/test-app"
+    ]
+}
